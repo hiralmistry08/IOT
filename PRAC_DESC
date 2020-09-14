@@ -1,0 +1,14 @@
+AIM:In this practical we will be going to create a telegram bot using python and telepot package
+
+steps:
+
+step1:Open your telegram app/web 
+step2:Search for your botfather in contacts
+step3:Click on /start and create your new bor (/newbot)
+step4:Now you have choose your bot name(hiral08)
+step5:Enter your username for your bot but it should end with 'bot'(hiral2001bot)
+step6:As you will enetr username you have get your API token('1353050608:AAF3fF8UoDz9rWlU40hcrRjQjsylFRQG33k')
+step7:Now you can check your bot by using methods(/getMe,/getUpate),(https://api.telegram.org/bot<your-bot-token>/getMe OR https://api.telegram.org/bot<your-bot-token>/getUpdates)
+step8:Through above API you will get your chat id
+step9:Now you can use others chat id and you can chat with them by using this method-
+(https://api.telegram.org/bot<your-bot-token>/sendMessage?chat_id=<chat-id>&text=TestReply)
